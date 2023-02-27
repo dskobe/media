@@ -1,7 +1,10 @@
-[{
-  "id": 1,
-  "title": "Hello world"
-},{
-  "id": 2,
-  "title": "Coming soon"
-}]
+{
+  "author": "DSKI",
+  "data": [{
+    "id": 1,
+    "title": "Hello world"
+  },{
+    "id": 2,
+    "title": "Coming soon"
+  }]
+}
