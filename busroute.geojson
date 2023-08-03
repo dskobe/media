@@ -2504,7 +2504,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "10"
+        "name": "Deutsche Schule"
       },
       "geometry": {
         "coordinates": [
@@ -2517,7 +2517,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "9"
+        "name": "Nishinomiya Kitaguchi"
       },
       "geometry": {
         "coordinates": [
@@ -2530,7 +2530,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "8"
+        "name": "Ashiya Post Office"
       },
       "geometry": {
         "coordinates": [
@@ -2543,7 +2543,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "7"
+        "name": "Konan-Yamate St."
       },
       "geometry": {
         "coordinates": [
@@ -2556,7 +2556,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "6"
+        "name": "Mikage St."
       },
       "geometry": {
         "coordinates": [
@@ -2569,7 +2569,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "5"
+        "name": "Shukugawa St."
       },
       "geometry": {
         "coordinates": [
@@ -2582,7 +2582,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "4"
+        "name": "Ashiya Yamate"
       },
       "geometry": {
         "coordinates": [
@@ -2595,7 +2595,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "3"
+        "name": "Kobe Okamoto"
       },
       "geometry": {
         "coordinates": [
@@ -2608,7 +2608,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "2"
+        "name": "Rokko St."
       },
       "geometry": {
         "coordinates": [
@@ -2621,7 +2621,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "1"
+        "name": "Kobe Nada"
       },
       "geometry": {
         "coordinates": [
