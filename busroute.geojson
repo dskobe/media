@@ -3,7 +3,10 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "id": 6,
+        "name": "DSKI School Bus"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -2500,7 +2503,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "10"
+      },
       "geometry": {
         "coordinates": [
           135.26991875729635,
@@ -2511,7 +2516,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "9"
+      },
       "geometry": {
         "coordinates": [
           135.35682229440346,
@@ -2522,7 +2529,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "8"
+      },
       "geometry": {
         "coordinates": [
           135.30566876026575,
@@ -2533,7 +2542,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "7"
+      },
       "geometry": {
         "coordinates": [
           135.29185624524547,
@@ -2544,7 +2555,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "6"
+      },
       "geometry": {
         "coordinates": [
           135.25236281578412,
@@ -2555,7 +2568,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "5"
+      },
       "geometry": {
         "coordinates": [
           135.32738558207933,
@@ -2566,7 +2581,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "4"
+      },
       "geometry": {
         "coordinates": [
           135.3211853570108,
@@ -2577,7 +2594,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "3"
+      },
       "geometry": {
         "coordinates": [
           135.27030162643968,
@@ -2588,7 +2607,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "2"
+      },
       "geometry": {
         "coordinates": [
           135.23907239849223,
@@ -2599,7 +2620,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "1"
+      },
       "geometry": {
         "coordinates": [
           135.2434778157999,
