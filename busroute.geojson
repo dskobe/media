@@ -2508,8 +2508,8 @@
       },
       "geometry": {
         "coordinates": [
-          135.26991875729635,
-          34.68756302654582
+          135.27004,
+          34.68743
         ],
         "type": "Point"
       }
@@ -2517,12 +2517,77 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Nishinomiya Kitaguchi"
+        "name": "Takashō JHS"
       },
       "geometry": {
         "coordinates": [
-          135.35682229440346,
-          34.744939304312126
+          135.24354,
+          34.71959
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rokko Kusugaokachō"
+      },
+      "geometry": {
+        "coordinates": [
+          135.2388,
+          34.72132
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hankyu Mikage St."
+      },
+      "geometry": {
+        "coordinates": [
+          135.25234,
+          34.72421
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nishi-Okamoto"
+      },
+      "geometry": {
+        "coordinates": [
+          135.26564,
+          34.7272
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Settsu-Motoyama St."
+      },
+      "geometry": {
+        "coordinates": [
+          135.2749,
+          34.72692
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nishi-Ashiya"
+      },
+      "geometry": {
+        "coordinates": [
+          135.29828,
+          34.73354
         ],
         "type": "Point"
       }
@@ -2534,8 +2599,8 @@
       },
       "geometry": {
         "coordinates": [
-          135.30566876026575,
-          34.73538078159305
+          135.30497,
+          34.73521
         ],
         "type": "Point"
       }
@@ -2543,12 +2608,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Konan-Yamate St."
+        "name": "Ashiya Ōharachō"
       },
       "geometry": {
         "coordinates": [
-          135.29185624524547,
-          34.731118582951595
+          135.3092,
+          34.73652
         ],
         "type": "Point"
       }
@@ -2556,12 +2621,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Mikage St."
+        "name": "Kita-Shukugawa"
       },
       "geometry": {
         "coordinates": [
-          135.25236281578412,
-          34.72418628714286
+          135.32218,
+          34.74989
         ],
         "type": "Point"
       }
@@ -2569,12 +2634,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Shukugawa St."
+        "name": "Shukugawa ES"
       },
       "geometry": {
         "coordinates": [
-          135.32738558207933,
-          34.74281482505198
+          135.32376,
+          34.74524
         ],
         "type": "Point"
       }
@@ -2582,51 +2647,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Ashiya Yamate"
+        "name": "Nishinomiya Kitaguchi"
       },
       "geometry": {
         "coordinates": [
-          135.3211853570108,
-          34.74990860021194
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Kobe Okamoto"
-      },
-      "geometry": {
-        "coordinates": [
-          135.27030162643968,
-          34.73045304764233
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Rokko St."
-      },
-      "geometry": {
-        "coordinates": [
-          135.23907239849223,
-          34.721360741178586
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Kobe Nada"
-      },
-      "geometry": {
-        "coordinates": [
-          135.2434778157999,
-          34.71898931330537
+          135.3569,
+          34.74489
         ],
         "type": "Point"
       }
