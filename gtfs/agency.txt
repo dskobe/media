@@ -1,0 +1,2 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_fare_url,agency_email
+dski,Deutsche Schule Kobe,https://dskobe.org,Asia/Tokyo,en,078-857-9777,https://dskobe.org/media/fees/Fee-Structure-20232024.pdf,mail@dskobe.org
