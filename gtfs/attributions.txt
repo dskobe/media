@@ -1,0 +1,2 @@
+organization_name,is_producer,is_operator,is_authority,attribution_url,attribution_email
+DSK International,1,1,1,https://dskobe.org/,mail@dskobe.org
