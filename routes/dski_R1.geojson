@@ -2500,6 +2500,174 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nishinomiya Kitaguchi",
+        "stop_id": "dski_12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.3569023,
+          34.7448933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shukugawa ES",
+        "stop_id": "dski_11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.3237614,
+          34.7452411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kita-Shukugawa",
+        "stop_id": "dski_10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.3221859,
+          34.7498963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ashiya??harach?",
+        "stop_id": "dski_09"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.3092047,
+          34.7365204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ashiya Post Office",
+        "stop_id": "dski_08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.3049771,
+          34.7352152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nishi-Ashiya",
+        "stop_id": "dski_07"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.2982885,
+          34.7335456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Settsu-Motoyama St.",
+        "stop_id": "dski_06"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.2749033,
+          34.7269231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nishi-Okamoto",
+        "stop_id": "dski_05"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.2656493,
+          34.727208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hankyu Mikage St.",
+        "stop_id": "dski_04"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.2523489,
+          34.724219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rokko?Kusugaokach?",
+        "stop_id": "dski_03"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.2388098,
+          34.7213277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Takash? JHS",
+        "stop_id": "dski_02"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.2435487,
+          34.7195999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Deutsche Schule",
+        "stop_id": "dski_01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.2700417,
+          34.6874358
+        ]
+      }
     }
   ]
 }
