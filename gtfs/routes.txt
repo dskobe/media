@@ -1,0 +1,2 @@
+route_id,route_type,agency_id,route_short_name,route_long_name,route_desc,route_url,route_color,continuous_pickup,continuous_drop_off
+dski_R1,3,dski,DSKI School Bus,DSKI School Bus Route,,,,1,1
