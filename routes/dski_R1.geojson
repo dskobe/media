@@ -2658,7 +2658,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Deutsche Schule (DSKI)",
+        "name": "Deutsche Schule",
         "stop_id": "dski_01"
       },
       "geometry": {
